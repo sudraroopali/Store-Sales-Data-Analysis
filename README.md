@@ -1,6 +1,6 @@
 # Excel Data Analysis
 
-![picture](https://github.com/sudraroopali/Excel_Data-Analysis/blob/main/Sales%20Report_Excel.png)
+![Alt picture](https://github.com/sudraroopali/Excel_Data-Analysis/blob/main/Sales%20Report_Excel.png)
 
 
 

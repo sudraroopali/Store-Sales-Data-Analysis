@@ -1,5 +1,9 @@
 # Excel Data Analysis
 
+![picture](Sales Report_Excel.png)
+
+
+
 📊 **Project Overview:**
 - 🚀 **Introduction:** This project involved a comprehensive analysis of our sales data for the year 2022.
 - 🎯 **Objective:** The primary objectives were to forecast sales for 2023 and create a sales report to enhance customer understanding and drive business growth.

@@ -1,8 +1,6 @@
 # Excel Data Analysis
 
-![picture](https://github.com/sudraroopali/Excel_Data-Analysis/blob/main/Sales%20Report_Excel.png)
-
-
+![car](https://github.com/sudraroopali/Excel_Data-Analysis/blob/main/Sales%20Report_Excel.png)
 
 📊 **Project Overview:**
 - 🚀 **Introduction:** This project involved a comprehensive analysis of our sales data for the year 2022.

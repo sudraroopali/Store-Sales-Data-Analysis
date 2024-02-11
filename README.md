@@ -26,7 +26,7 @@
 - 📲 Enabled report connections for seamless chart synchronization.
 
 🧩 **Conclusions:**
-- 💡 Sales were highest in April, suggesting a focus on that month for marketing initiatives.
+- 💡 Sales were highest in March, suggesting a focus on that month for marketing initiatives.
 - 🌐 Majority of sales were through Amazon and Myntra, recommending further investment in these platforms.
 - 🚺 Women placed most orders, particularly in the age range of 30-49.
 - 🌍 Top-performing states were Maharashtra, Uttar Pradesh, and Karnataka.
